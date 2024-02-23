@@ -3,3 +3,7 @@
 
 
 echo "inicio el despliegue"
+
+git pull
+
+curl https://reqbin.com/echo
